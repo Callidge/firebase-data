@@ -1,0 +1,17 @@
+{
+  "colleges":{ //collection
+    "collegeID1":{ // Document
+      "name": "",
+      "transferable":{ // Subcollection
+        "transferableCollegeID1":{ // Document
+          "name": "",
+          "majors":{ // Subcollection
+            "majorID1":{ // Document
+              "class": "transferable equivalent class"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "colleges": {
+    "collegeID1": {
+      "name": "",
+      "transferable": {
+        "transferableCollegeID1": {
+          "name": "",
+          "majors": {
+            "majorID1": {
+              "class": "transferable equivalent class"
+            }
+          }
+        }
+      }
+    }
+  }
+}
