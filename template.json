@@ -7,7 +7,13 @@
           "name": "",
           "majors":{ // Subcollection
             "majorID1":{ // Document
-              "class": "transferable equivalent class"
+              "courses": { // Subcollection
+                "courseID1": { //Document
+                  "equivalentClass": "",
+                  "equivalentClassUnit": "",
+                  "unit": ""
+                }
+              }
             }
           }
         }

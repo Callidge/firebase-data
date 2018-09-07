@@ -1,13 +1,90 @@
 {
   "colleges": {
-    "collegeID1": {
-      "name": "",
+    "Allan Hancock College": {
+      "name": "Allan Hancock College",
       "transferable": {
-        "transferableCollegeID1": {
-          "name": "",
+        "California Maritime Academy": {
+          "name": "California Maritime Academy",
           "majors": {
-            "majorID1": {
-              "class": "transferable equivalent class"
+              "class": null
+          }
+        },
+        "California Polytechnic University, Pomona": {
+          "name": "California Polytechnic University, Pomona",
+          "majors": {
+            "American Cultural Perspectives Requirement": {
+              "courses": {
+                "ANT 102 Introduction to Cultural": {
+                  "equivalentClass": "ANTH 102 Introduction to Cultural Anthropology",
+                  "equivalentClassUnit": 3,
+                  "unit": 4
+                },
+                "ENG 212 Survey of American Literature II": {
+                  "equivalentClass": "ENGL 131 American Literature 1865 to Present",
+                  "equivalentClassUnit": 3,
+                  "unit": 4
+                },
+                "ENG 213 Multicultural Literature in the U.S.": {
+                  "equivalentClass": null,
+                  "equivalentClassUnit": null,
+                  "unit": 4
+                },
+                "EWS 140 Introduction to Ethnic Studies": {
+                  "equivalentClass": "SOC 120 Race and Ethnic Relations",
+                  "equivalentClassUnit": 3,
+                  "unit": 4
+                },
+                "EWS 145 Introduction to the Study of Women and Men in Society": {
+                  "equivalentClass": null,
+                  "equivalentClassUnit": null,
+                  "unit": 4
+                },
+                "FN 228 Food and Culture": {
+                  "equivalentClass": "FSN 134 Food, Nutrition, Customs and Culture",
+                  "equivalentClassUnit": 4,
+                  "unit": 4
+                },
+                "HST 202 United States History": {
+                  "equivalentClass": "HIST 108 US History 1877 to Present",
+                  "equivalentClassUnit": 3,
+                  "unit": 4
+                },
+                "HST 201 United States History": {
+                  "equivalentClass": "HIST 107 US History to 1877",
+                  "equivalentClassUnit": 3,
+                  "unit": 4
+                }
+              }
+            },
+            "Aerospace Engineering B.S.": {
+              "courses": {
+                "ARO 101L Introduction to Aeronautics": {
+                  "equivalentClass": null,
+                  "equivalentClassUnit": null,
+                  "unit": 1
+                },
+                "ECE 231 Elements of Electrical Engineering": {
+                  "equivalentClass": "ENGR 170 Electric Circuit Analysis",
+                  "equivalentClassUnit": 3,
+                  "unit": 3
+                },
+                "ECE 231L Elements of Electrical Engineering Lab": {
+                  "equivalentClass": "ENGR 171 Electric Circuits Laboratory",
+                  "equivalentClassUnit": 1,
+                  "unit": 1
+                },
+                "MAT 114 Analytic Geometry and Calculus I": {
+                  "equivalentClass": "MATH 181 Calculus 1",
+                  "equivalentClassUnit": 5,
+                  "unit": 4
+                },
+                "MAT 115 Analytic Geometry and Calculus II": {
+                  "equivalentClass": "MATH 182 Calculus 2",
+                  "equivalentClassUnit": 5,
+                  "unit": 4
+                },
+                
+              }
             }
           }
         }
