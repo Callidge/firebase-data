@@ -3,5 +3,5 @@
 ### To run the application:
 
 ```
-DATA_BASE_URL node index.js
+DATA_BASE_URL=<url> node index.js
 ```
