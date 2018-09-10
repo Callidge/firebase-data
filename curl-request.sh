@@ -1,2 +1,2 @@
-curl -vX POST http://server/api/v1/places.json -d @assist-data.json \
+curl -vX POST https://firestore.googleapis.com/v1beta1/projects/**PROJECT_ID**/databases/(default)/documents/**COLLECTION_ID**?&key=(YOUR API KEY) -d @assist-data.json \
 --header "Content-Type: application/json"

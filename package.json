@@ -1,0 +1,17 @@
+{
+  "name": "firebase-data",
+  "version": "1.0.0",
+  "description": "importing data to firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "Mir Ali Talpur",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^6.0.0"
+  }
+}
