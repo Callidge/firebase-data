@@ -83,7 +83,86 @@
                   "equivalentClassUnit": 5,
                   "unit": 4
                 },
-                
+                "MAT 116 Analytic Geometry and Calculus III": {
+                  "equivalentClass": null,
+                  "equivalentClassUnit": null,
+                  "unit": 4
+                },
+                "MAT 214 Calculus of Several Variables I": {
+                  "equivalentClass": "MATH 183 Multivariable Calculus",
+                  "equivalentClassUnit": 5,
+                  "unit": 3
+                },
+                "MAT 215 Calculus of Several Variables II": {
+                  "equivalentClass": null,
+                  "equivalentClassUnit": null,
+                  "unit": 3
+                },
+                "MAT 224 Elementary Linear Algebra and Differential Equations": {
+                  "equivalentClass": "MATH 184 Linear Algebra and Differential Equations",
+                  "equivalentClassUnit": 5,
+                  "unit": 4
+                },
+                "MTE 207 Materials Science and Engineering": {
+                  "equivalentClass": null,
+                  "equivalentClassUnit": null,
+                  "unit": 3
+                },
+                "PHY 131 General Physics & PHY 131L General Physics Laboratory": {
+                  "equivalentClass": "PHYS 161 Engineering Physics 1",
+                  "equivalentClassUnit": 5,
+                  "unit": 4
+                },
+                "PHY 132 General Physics & PHY 132L General Physics Laboratory": {
+                  "equivalentClass": "PHYS 162 Engineering Physics 2",
+                  "equivalentClassUnit": 5,
+                  "unit": 4
+                },
+                "PHY 133 General Physics & PHY 133L General Physics Laboratory": {
+                  "equivalentClass": "PHYS 163 Engineering Physics 3",
+                  "equivalentClassUnit": 5,
+                  "unit": 4
+                },
+                "ME 214 Vector Statics & ME 224L Mechanics Lab": {
+                  "equivalentClass": "ENGR 152 Statics",
+                  "equivalentClassUnit": 3,
+                  "unit": 4
+                },
+                "ME 215 Vector Dynamics": {
+                  "equivalentClass": "ENGR 154 Dynamics",
+                  "equivalentClassUnit": 3,
+                  "unit": 4
+                },
+                "CHM 121 General Chemistry & CHM 121L General Chemistry Laboratory & CHM 122L General Chemistry Laboratory": {
+                  "equivalentClass": "CHEM 150 General Chemistry 1",
+                  "equivalentClassUnit": 5,
+                  "unit": 5
+                },
+                "ARO 102L Introduction to Astronautics": {
+                  "equivalentClass": null,
+                  "equivalentClassUnit": null,
+                  "unit": 1
+                },
+                "ARO 103L Introduction to Aerospace Propulsion": {
+                  "equivalentClass": null,
+                  "equivalentClassUnit": null,
+                  "unit": 1
+                },
+                "ARO 201L Fundamentals of Systems Engineering": {
+                  "equivalentClass": null,
+                  "equivalentClassUnit": null,
+                  "unit": 1
+                },
+                "ARO 202L Fundamentals of Aeronautics": {
+                  "equivalentClass": null,
+                  "equivalentClassUnit": null,
+                  "unit": 1
+                },
+                "ARO 203L Fundamentals of Astronautics": {
+                  "equivalentClass": null,
+                  "equivalentClassUnit": null,
+                  "unit": 1
+                } 
               }
             }
           }
